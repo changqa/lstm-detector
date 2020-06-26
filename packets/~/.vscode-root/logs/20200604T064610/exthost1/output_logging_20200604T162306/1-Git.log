@@ -1,0 +1,1191 @@
+Looking for git in: git
+Using git 2.25.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /usr/local/src/go_path/geth-test
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :cmd/buckets
+> git show :cmd/main.go
+> git check-ignore -v -z --stdin
+> git show :cmd/buckets
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :gethTest/buckets.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :gethTest/packets.go
+> git show :gethTest/buckets.go
+> git show :cmd/buckets
+> git show :gethTest/buckets.go
+> git show :gethTest/keystore.go
+> git show :gethTest/pingserver.go
+> git show :gethTest/packets.go
+> git show :gethTest/buckets.go
+> git show :cmd/main.go
+> git show :gethTest/buckets.go
+> git show :gethTest/packets.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :gethTest/packets.go
+> git show :cmd/main.go
+> git show :gethTest/packets.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :key
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git show :gethTest/buckets.go
+> git show :key
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :keys/0_0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :gethTest/packets.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/packets.go
+> git show :key
+> git show :gethTest/buckets.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/pingserver.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/packets.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :keys/0_1
+> git show :cmd/main.go
+> git show :keys/0_1
+> git show :key
+> git check-ignore -v -z --stdin
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git show :keys/0_1
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :keys/0_1
+> git show :cmd/main.go
+> git show :gethTest/buckets.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :key
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :.vscode/launch.json
+> git check-ignore -v -z --stdin
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/pingserver.go
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/pingserver.go
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :gethTest/pingserver.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :gethTest/pingserver.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/buckets.go
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/buckets.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git show :gethTest/buckets.go
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/pingserver.go
+> git show :gethTest/buckets.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :gethTest/pingserver.go
+> git show :gethTest/buckets.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/logdist
+> git check-ignore -v -z --stdin
+> git show :gethTest/buckets.go
+> git show :cmd/logdist
+> git show :gethTest/pingserver.go
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :key
+> git show :gethTest/buckets.go
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :gethTest/pingserver.go
+> git show :cmd/logdist
+> git show :cmd/main.go
+> git show :gethTest/pingserver.go
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :cmd/logdist
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/logdist
+> git show :cmd/main.go
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/logdist
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :key
+> git show :gethTest/buckets.go
+> git show :key
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :gethTest/pingserver.go
+> git show :cmd/logdist
+> git show :cmd/main.go
+> git show :cmd/logdist
+> git show :gethTest/pingserver.go
+> git show :cmd/main.go
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :key
+> git show :gethTest/buckets.go
+> git show :key
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :cmd/logdist
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :cmd/main.go
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :cmd/main.go
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :cmd/main.go
+> git show :cmd/logdist
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/src/go_path/geth-test/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template

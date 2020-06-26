@@ -1,0 +1,4 @@
+[2020-06-05 17:01:12.169] [main] [info] update#setState idle
+[2020-06-05 17:01:42.174] [main] [info] update#setState checking for updates
+[2020-06-05 17:01:42.542] [main] [error] Error: net::ERR_NETWORK_CHANGED
+[2020-06-05 17:01:42.542] [main] [info] update#setState idle

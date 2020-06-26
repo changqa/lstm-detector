@@ -1,0 +1,525 @@
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:94: s.privKey undefined (cannot refer to unexported field or method privKey)
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:94: s.privKey undefined (type *gethTest.pingServer has no field or method privKey)
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:94: s.privKey undefined (cannot refer to unexported field or method privKey)
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:94: s.privKey undefined (type *gethTest.pingServer has no field or method privKey)
+
+go.toolsGopath setting is not set. Using GOPATH /usr/local/src/go_path
+Installing 1 tool at /usr/local/src/go_path/bin in module mode.
+  guru
+
+Installing golang.org/x/tools/cmd/guru SUCCEEDED
+
+All tools successfully installed. You are ready to Go :).
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:95: syntax error: unexpected }, expecting name or (
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:95: expected selector or type assertion, found '}'
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/gethTest/pingserver.go:256: syntax error: unexpected target at end of statement
+/usr/local/src/go_path/geth-test/gethTest/pingserver.go:266: syntax error: unexpected }, expecting expression
+/usr/local/src/go_path/geth-test/gethTest/pingserver.go:269: syntax error: unexpected ), expecting { after for clause
+/usr/local/src/go_path/geth-test/gethTest/pingserver.go:285: syntax error: unexpected return, expecting expression
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/gethTest/pingserver.go:256: expected ';', found target (and 1 more errors)
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/gethTest/pingserver.go:250: assignment mismatch: 1 variable but hex.DecodeString returns 2 values
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/gethTest/pingserver.go:250: cannot initialize 1 variables with 2 values
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:1664: syntax error: unexpected newline, expecting comma or }
+/usr/local/src/go_path/geth-test/cmd/main.go:1666: syntax error: unexpected :, expecting { after for clause
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:1664: missing ',' before newline in composite literal (and 2 more errors)
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:1664: missing ',' before newline in composite literal (and 2 more errors)
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:1664: syntax error: unexpected newline, expecting comma or }
+/usr/local/src/go_path/geth-test/cmd/main.go:1666: syntax error: unexpected :, expecting { after for clause
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:1664: missing ',' before newline in composite literal (and 2 more errors)
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:1664: syntax error: unexpected newline, expecting comma or }
+/usr/local/src/go_path/geth-test/cmd/main.go:1666: syntax error: unexpected :, expecting { after for clause
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:1664: syntax error: unexpected newline, expecting comma or }
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:1664: missing ',' before newline in composite literal
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:1670: s.bucket undefined (type string has no field or method bucket)
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:1670: s.bucket undefined (type string has no field or method bucket)
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:1671: s.bucket undefined (cannot refer to unexported field or method gethTest.(*pingServer).bucket)
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:1671: s.bucket undefined (type *gethTest.pingServer has no field or method bucket)
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:1671: s.bucket undefined (cannot refer to unexported field or method gethTest.(*pingServer).bucket)
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:1671: s.bucket undefined (type *gethTest.pingServer has no field or method bucket)
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:1671: s.bucket undefined (cannot refer to unexported field or method gethTest.(*pingServer).bucket)
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:1671: s.bucket undefined (type *gethTest.pingServer has no field or method bucket)
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:1671: s.bucket undefined (cannot refer to unexported field or method gethTest.(*pingServer).bucket)
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:1671: s.bucket undefined (type *gethTest.pingServer has no field or method bucket)
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:95: s declared but not used
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:95: s declared but not used
+/usr/local/src/go_path/geth-test/cmd/main.go:96: err declared but not used
+/usr/local/src/go_path/geth-test/cmd/main.go:1668: i declared but not used
+/usr/local/src/go_path/geth-test/cmd/main.go:1670: err declared but not used
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:95: s declared but not used
+/usr/local/src/go_path/geth-test/cmd/main.go:96: err declared but not used
+/usr/local/src/go_path/geth-test/cmd/main.go:1668: i declared but not used
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:95: s declared but not used
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+/usr/local/src/go_path/geth-test/cmd/main.go:95: s declared but not used
+/usr/local/src/go_path/geth-test/cmd/main.go:96: err declared but not used
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+/usr/local/src/go_path/geth-test/cmd/main.go:95: s declared but not used
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/gethTest
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/gethTest
+Starting building the current package at /usr/local/src/go_path/geth-test/gethTest
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/gethTest and Go workspace: 
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/gethTest>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+
+Starting linting the current package at /usr/local/src/go_path/geth-test/cmd
+Starting "go vet" under the folder /usr/local/src/go_path/geth-test/cmd
+Starting building the current package at /usr/local/src/go_path/geth-test/cmd
+Not able to determine import path of current package by using cwd: /usr/local/src/go_path/geth-test/cmd and Go workspace: 
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go vet .
+
+/usr/local/src/go_path/geth-test/cmd>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goCaYMIS/go-code-check .
+

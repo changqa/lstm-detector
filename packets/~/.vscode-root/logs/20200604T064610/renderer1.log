@@ -1,0 +1,153 @@
+[2020-06-04 16:26:03.922] [renderer1] [error] Cannot find tool "guru" to find references.
+[2020-06-04 16:34:03.261] [renderer1] [error] Cannot find tool "guru" to find references.
+[2020-06-04 16:34:15.364] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1330
+
+[2020-06-04 16:41:15.919] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 2523
+godef: no declaration found for &{s targ}
+
+[2020-06-04 16:41:49.888] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 2361
+godef: no identifier found
+
+[2020-06-04 16:41:50.490] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 2362
+godef: no identifier found
+
+[2020-06-04 16:46:49.796] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-06-04 16:57:19.292] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-06-04 16:57:29.840] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 5531
+godef: no identifier found
+
+[2020-06-04 16:59:35.310] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 2365
+godef: no identifier found
+
+[2020-06-04 17:13:10.850] [renderer1] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2821:819)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2821:250
+    at async t.RawDebugSession.shutdown (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2819:336)
+    at async file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5122:409
+[2020-06-04 17:13:43.044] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:13:45.929] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:13:48.198] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:13:51.242] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:13:53.814] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:13:57.596] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:13:59.811] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:14:02.383] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:14:03.443] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:14:04.919] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:14:07.061] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:14:16.253] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:15:08.677] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:21:20.609] [renderer1] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2821:819)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2821:250
+    at async t.RawDebugSession.shutdown (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2819:336)
+    at async file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5122:409
+[2020-06-04 17:22:36.540] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:23:38.870] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 5470
+godef: no identifier found
+
+[2020-06-04 17:23:39.000] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 5636
+godef: no declaration found for victim
+
+[2020-06-04 17:23:41.283] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 5631
+godef: no identifier found
+
+[2020-06-04 17:23:43.041] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 5753
+godef: no identifier found
+
+[2020-06-04 17:34:05.401] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-06-04 17:34:24.395] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1887
+godef: no identifier found
+
+[2020-06-04 17:34:33.050] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1448
+godef: no identifier found
+
+[2020-06-04 17:34:37.301] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1598
+godef: no identifier found
+
+[2020-06-04 17:34:37.518] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1597
+godef: no identifier found
+
+[2020-06-04 17:34:49.681] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-06-04 17:34:49.982] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-06-04 17:35:05.522] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-06-04 17:36:58.682] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 213233
+godef: no declaration found for &{s bucket}
+
+[2020-06-04 17:37:01.909] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 213231
+godef: no declaration found for &{s bucket}
+
+[2020-06-04 17:38:12.884] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 213063
+godef: no declaration found for _
+
+[2020-06-04 17:38:40.350] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 2502
+godef: no declaration found for _
+
+[2020-06-04 17:39:21.771] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 6361
+godef: no identifier found
+
+[2020-06-04 17:39:40.994] [renderer1] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1882
+
+[2020-06-04 17:44:09.797] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:44:13.505] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:44:25.604] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:57:08.518] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:57:53.241] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:57:58.168] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 17:58:54.946] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 18:04:23.053] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 18:04:28.009] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-06-04 18:04:32.734] [renderer1] [error] Unable to read file (EntryNotFound (FileSystemError)): Error: Unable to read file (EntryNotFound (FileSystemError))
+    at _.doReadAsFileStream (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1591:434)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)

@@ -1,0 +1,152 @@
+[2020-06-04 06:46:12.329] [exthost] [info] extension host started
+[2020-06-04 06:46:12.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-04 06:46:12.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-04 06:46:12.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-04 06:46:12.370] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2020-06-04 06:46:12.394] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-06-04 06:46:12.394] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2020-06-04 06:46:12.436] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-04 06:46:12.436] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-04 06:46:12.440] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-04 06:46:12.440] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-04 06:46:12.442] [exthost] [info] eager extensions activated
+[2020-06-04 06:50:00.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-06-04 06:50:00.999] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/python/dist/pythonMain
+[2020-06-04 06:50:01.006] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2020-06-04 06:50:01.006] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-python.python-2020.2.64397/out/client/extension
+[2020-06-04 16:19:52.044] [exthost] [info] extension host started
+[2020-06-04 16:19:52.060] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-04 16:19:52.060] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-04 16:19:52.062] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-04 16:19:52.062] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2020-06-04 16:19:52.071] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-06-04 16:19:52.071] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2020-06-04 16:19:52.084] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-04 16:19:52.085] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-04 16:19:52.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-04 16:19:52.086] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-04 16:19:52.270] [exthost] [info] eager extensions activated
+[2020-06-04 16:19:56.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-06-04 16:19:56.263] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/python/dist/pythonMain
+[2020-06-04 16:19:56.265] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2020-06-04 16:19:56.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-python.python-2020.2.64397/out/client/extension
+[2020-06-04 16:23:06.362] [exthost] [info] extension host started
+[2020-06-04 16:23:06.381] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-04 16:23:06.382] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-04 16:23:06.384] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-04 16:23:06.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2020-06-04 16:23:06.394] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-06-04 16:23:06.394] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2020-06-04 16:23:06.408] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-04 16:23:06.408] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-04 16:23:06.409] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-04 16:23:06.409] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-04 16:23:06.615] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.Go {"startup":true,"extensionId":{"value":"ms-vscode.Go","_lower":"ms-vscode.go"},"activationEvent":"workspaceContains:**/*.go"}
+[2020-06-04 16:23:06.615] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-vscode.go-0.14.3/out/src/goMain
+[2020-06-04 16:23:07.106] [exthost] [info] eager extensions activated
+[2020-06-04 16:26:03.920] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 16:26:03.920] [exthost] [error] Cannot find tool "guru" to find references.
+[2020-06-04 16:34:03.257] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 16:34:03.257] [exthost] [error] Cannot find tool "guru" to find references.
+[2020-06-04 16:34:15.363] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 16:34:15.363] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1330
+
+[2020-06-04 16:41:15.917] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 16:41:15.918] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 2523
+godef: no declaration found for &{s targ}
+
+[2020-06-04 16:41:49.887] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 16:41:49.887] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 2361
+godef: no identifier found
+
+[2020-06-04 16:41:50.489] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 16:41:50.489] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 2362
+godef: no identifier found
+
+[2020-06-04 16:46:49.794] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 16:46:49.794] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-06-04 16:57:19.286] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 16:57:19.286] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-06-04 16:57:29.838] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 16:57:29.838] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 5531
+godef: no identifier found
+
+[2020-06-04 16:59:35.309] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 16:59:35.309] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 2365
+godef: no identifier found
+
+[2020-06-04 17:13:09.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2020-06-04 17:13:09.889] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-server-ready/dist/extension
+[2020-06-04 17:13:12.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-04 17:13:12.210] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/extension
+[2020-06-04 17:13:12.216] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-04 17:13:12.216] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-06-04 17:13:12.251] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-04 17:13:12.251] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-06-04 17:23:38.869] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:23:38.869] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 5470
+godef: no identifier found
+
+[2020-06-04 17:23:38.999] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:23:38.999] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 5636
+godef: no declaration found for victim
+
+[2020-06-04 17:23:41.283] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:23:41.283] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 5631
+godef: no identifier found
+
+[2020-06-04 17:23:43.040] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:23:43.040] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 5753
+godef: no identifier found
+
+[2020-06-04 17:34:05.400] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:34:05.400] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-06-04 17:34:24.391] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:34:24.391] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1887
+godef: no identifier found
+
+[2020-06-04 17:34:33.050] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:34:33.050] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1448
+godef: no identifier found
+
+[2020-06-04 17:34:37.301] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:34:37.301] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1598
+godef: no identifier found
+
+[2020-06-04 17:34:37.517] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:34:37.517] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1597
+godef: no identifier found
+
+[2020-06-04 17:34:49.681] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:34:49.681] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-06-04 17:34:49.981] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:34:49.981] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-06-04 17:35:05.521] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:35:05.521] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-06-04 17:36:58.680] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:36:58.680] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 213233
+godef: no declaration found for &{s bucket}
+
+[2020-06-04 17:36:59.331] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:36:59.331] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 213233
+godef: no declaration found for &{s bucket}
+
+[2020-06-04 17:37:01.909] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:37:01.909] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 213231
+godef: no declaration found for &{s bucket}
+
+[2020-06-04 17:38:12.883] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:38:12.883] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 213063
+godef: no declaration found for _
+
+[2020-06-04 17:38:40.350] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:38:40.350] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/cmd/main.go -o 2502
+godef: no declaration found for _
+
+[2020-06-04 17:39:21.771] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:39:21.771] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/pingserver.go -o 6361
+godef: no identifier found
+
+[2020-06-04 17:39:40.993] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2020-06-04 17:39:40.993] [exthost] [error] Command failed: /usr/local/src/go_path/bin/godef -t -i -f /usr/local/src/go_path/geth-test/gethTest/buckets.go -o 1882
+

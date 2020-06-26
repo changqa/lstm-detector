@@ -1,0 +1,11 @@
+2020-06-17 17:03:08,723 INFO 4 channels found for processing.
+2020-06-17 17:03:08,725 INFO Stream # 1: A-1
+2020-06-17 17:06:31,146 INFO normalized prediction error: 0.01
+2020-06-17 17:06:31,747 INFO Channel Stats: TP: 0  FP: 1  FN: 3
+2020-06-17 17:06:31,747 INFO Total true positives: 0
+2020-06-17 17:06:31,747 INFO Total false positives: 1
+2020-06-17 17:06:31,747 INFO Total false negatives: 3
+
+2020-06-17 17:06:31,754 INFO Stream # 2: =======
+2020-06-17 17:06:31,755 CRITICAL [Errno 2] No such file or directory: 'data/train/=======.npy'
+2020-06-17 17:06:31,755 CRITICAL Source data not found, may need to add data to repo: <link>
